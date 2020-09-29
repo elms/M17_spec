@@ -1,6 +1,10 @@
 M17 Protocol Specification
 ==========================
 
+.. raw:: latex
+
+   \part{I}
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
@@ -14,7 +18,7 @@ M17 Protocol Specification
 
 .. raw:: latex
 
-   \appendix
+   \begin{appendices}
 
 .. toctree::
    :maxdepth: 2
@@ -22,4 +26,14 @@ M17 Protocol Specification
    address_encoding
    decorrelator
    interleaving
+
+
+.. raw:: latex
+
+   \end{appendices}
+   \part{Codeplug}
+
+.. toctree::
+   :maxdepth: 2
+
    ip_encapsulation
